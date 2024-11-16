@@ -1,0 +1,3 @@
+﻿  engine.cpp
+D:\с++\2D engine\2D engine\engine.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  2D engine.vcxproj -> D:\с++\2D engine\x64\Debug\2D engine.exe
